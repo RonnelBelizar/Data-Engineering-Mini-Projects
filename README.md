@@ -3,11 +3,6 @@ A collection of mini-projects demonstrating my data engineering and data analyti
 
 ---
 
-## Projects Overview
-1. 
-
----
-
 ## Tech Stack / Tools Covered
 - **Python**: Core language for scripting, data manipulation, and automation  
 - **Pandas / NumPy**: Data cleaning, transformation, and analysis  
