@@ -1,0 +1,21 @@
+Patient_ID,Patient_Code,Test_Type,Date_Tested,Status,Result
+P1000,GX-337,HIV,2025-09-09,Error,4017
+P1001,GX-603,HIV,2025-09-13,Pending,Invalid
+P1002,GX-950,MTB,2025-09-06,Pending,Not Detected
+P1003,GX-585,CT_NG,2025-08-20,Error,4017
+P1004,GX-371,MTB,2025-09-07,Pending,Not Detected
+P1005,GX-673,CT_NG,2025-10-01,Completed,Invalid
+P1006,GX-143,CT_NG,2025-08-22,Completed,Detected
+P1007,GX-816,HIV,2025-09-26,Pending,Detected
+P1008,GX-846,MTB,2025-09-01,Pending,Not Detected
+P1009,GX-461,CT_NG,2025-08-29,Pending,Invalid
+P1010,GX-203,MTB,2025-08-26,Error,5007
+P1011,GX-544,HIV,2025-09-05,Completed,Detected
+P1012,GX-437,HIV,2025-09-18,Completed,Not Detected
+P1013,GX-349,MTB,2025-10-03,Error,5007
+P1014,GX-720,HIV,2025-08-21,Pending,Invalid
+P1015,GX-820,MTB,2025-09-13,Completed,Detected
+P1016,GX-569,CT_NG,2025-08-30,Completed,Invalid
+P1017,GX-212,HIV,2025-09-05,Pending,Detected
+P1018,GX-406,CT_NG,2025-08-31,Pending,Not Detected
+P1019,GX-801,MTB,2025-09-15,Error,5007

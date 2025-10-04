@@ -1,0 +1,25 @@
+[2025-10-05 00:44:46] INFO: ETL Started...
+[2025-10-05 00:44:46] INFO: Data Extraction started
+[2025-10-05 00:44:47] INFO: Extracted genexpert_data_1.xlsx file
+[2025-10-05 00:44:47] INFO: Extracted genexpert_data_2.xlsx file
+[2025-10-05 00:44:47] INFO: Extracted genexpert_data_3.xlsx file
+[2025-10-05 00:44:47] INFO: Extracted genexpert_data_4.csv file
+[2025-10-05 00:44:47] INFO: Extracted genexpert_data_5.csv file
+[2025-10-05 00:44:47] INFO: Extracted genexpert_data_6.csv file
+[2025-10-05 00:44:47] INFO: Extracted genexpert_data_7.json file
+[2025-10-05 00:44:47] INFO: Extracted genexpert_data_8.json file
+[2025-10-05 00:44:47] INFO: Extracted genexpert_data_9.json file
+[2025-10-05 00:44:47] INFO: Extracted XLSX/CSV/JSON files
+[2025-10-05 00:44:47] INFO: Data Extraction completed
+[2025-10-05 00:44:47] INFO: Data Transformation started
+[2025-10-05 00:44:47] INFO: Standardized Column Names
+[2025-10-05 00:44:47] INFO: Dropping duplicates based on 'patient code', 'test type', 'result'
+[2025-10-05 00:44:47] INFO: Replaced error codes as 'Error'
+[2025-10-05 00:44:47] INFO: Coverted 'date tested' to datetime format
+[2025-10-05 00:44:47] INFO: Sorted data by date
+[2025-10-05 00:44:47] INFO: Data Transformation completed
+[2025-10-05 00:44:47] INFO: Saving Transformed Data
+[2025-10-05 00:44:47] INFO: Saving Successful
+[2025-10-05 00:44:47] INFO: Logging Completed...
+
+Total Logs: 22
