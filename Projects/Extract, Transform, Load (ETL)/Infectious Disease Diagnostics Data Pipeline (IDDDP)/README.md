@@ -28,11 +28,12 @@ This project demonstrates a simple **ETL (Extract, Transform, Load)** process bu
 ## 🗂️ Project Structure
 
 infectious_disease_pipeline/  
-├── infectious_disease_pipeline_data/      → mock source files  
-├── logs/                                  → contains `etl_logs.txt`  
-├── screenshots/                           → PostgreSQL table screenshots  
-├── etl_pipeline.py                        → main ETL script  
-└── README.md                              → this file  
+├── etl_scripts/                         → Python: etl_pipeline_script.py and SQL: sql_script.sql
+├── infectious_disease_pipeline_data/    → mock raw data files (.json, .csv, .xlsx)  
+├── logs/                                → contains `etl_logs.txt`  
+├── notebooks/                           → Jupyter notebooks for documentation and testing  
+├── screenshots/                         → PostgreSQL table screenshots  
+└── README.md                            → this file  
 
 ---
 
