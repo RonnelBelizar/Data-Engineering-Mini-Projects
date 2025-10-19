@@ -15,12 +15,12 @@ This project demonstrates a simple **ETL (Extract, Transform, Load)** process bu
 
 ## 🛠️ Tech Stack
 
-- **Python**
-  - pandas  
-  - SQLAlchemy  
-  - psycopg2  
-  - glob
-- **PostgreSQL** (local database)
+- **Python** — scripting language for automation  
+- **Pandas** — data manipulation and cleaning  
+- **Glob** — local file discovery and directory handling  
+- **SQLAlchemy** — PostgreSQL database connectivity  
+- **PostgreSQL** — target database  
+- **Jupyter Notebook** — workflow presentation and documentation
 
 ---
 
