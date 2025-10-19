@@ -1,3 +1,5 @@
+CREATE DATABASE infectious_disease_db;
+
 CREATE TABLE patients(
 	patient_id VARCHAR(10) PRIMARY KEY,
 	name VARCHAR(50) NULL,
