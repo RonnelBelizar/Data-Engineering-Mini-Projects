@@ -19,7 +19,6 @@ This project demonstrates a simple **ETL (Extract, Transform, Load)** process bu
   - pandas  
   - SQLAlchemy  
   - psycopg2  
-  - openpyxl  
   - glob
 - **PostgreSQL** (local database)
 
