@@ -1,0 +1,11 @@
+patient_id,test_type,result,ct_value,test_date
+P001,Antigen,Positive,,2025-10-03
+P003,PCR,Positive,22.9,2025-10-05
+P005,Antigen,Negative,,2025-10-07
+P007,PCR,Negative,28.5,2025-10-10
+P009,Antigen,Positive,,2025-10-12
+P001,Antigen,Positive,,2025-10-03
+P002,PCR,Positive,25.4,2025-10-08
+P003,PCR,Positive,22.9,2025-10-05
+P008,Antigen,Negative,,2025-10-15
+P010,PCR,Positive,24.0,2025-10-18

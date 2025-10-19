@@ -1,0 +1,22 @@
+2025-10-19 22:41:56: Starting ETL Process
+2025-10-19 22:41:56: Establishing SQLAlchemy Engine
+2025-10-19 22:41:56: Successfully Created SQLAlchemy Engine
+2025-10-19 22:41:56: Initializing Extract Process
+2025-10-19 22:41:56: Extracting Patient Info
+2025-10-19 22:41:56: Successfully Extracted Patient Info
+2025-10-19 22:41:56: Extracting Lab Results
+2025-10-19 22:41:56: Successfully Extracted Lab Results
+2025-10-19 22:41:56: Extracting Device Maintenance
+2025-10-19 22:41:56: Successfully Extracted Device Maintenance
+2025-10-19 22:41:56: Successfully Extracted Data
+2025-10-19 22:41:56: Initializing Transformation
+2025-10-19 22:41:56: Transforming Patient Info
+2025-10-19 22:41:56: Successfully Transformed Patient Info
+2025-10-19 22:41:56: Transforming Lab Results
+2025-10-19 22:41:56: Successfully Transformed Lab Results
+2025-10-19 22:41:56: Transforming Device Maintenance
+2025-10-19 22:41:56: Successfully Transformed Device Maintenance
+2025-10-19 22:41:56: Successfully Transformed DataFrames
+2025-10-19 22:41:56: Loading DataFrames into PostgreSQL DB
+2025-10-19 22:41:56: Successfully Loaded DataFrames
+2025-10-19 22:41:56: Closed SQLAlchemy Engine

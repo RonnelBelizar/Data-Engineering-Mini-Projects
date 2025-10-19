@@ -1,0 +1,82 @@
+[
+    {
+        "patient_id": "P001",
+        "name": "Juan Dela Cruz",
+        "age": 34,
+        "gender": "Male",
+        "city": "Quezon City",
+        "contact": "09171234567"
+    },
+    {
+        "patient_id": "P003",
+        "name": "Jose Ramirez",
+        "age": 45,
+        "gender": "Male",
+        "city": "Cebu City",
+        "contact": "09191234569"
+    },
+    {
+        "patient_id": "P005",
+        "name": "Angela Reyes",
+        "age": 38,
+        "gender": "Female",
+        "city": "Pasig",
+        "contact": "09211234571"
+    },
+    {
+        "patient_id": "P007",
+        "name": "Grace Lorenzo",
+        "age": 31,
+        "gender": "Female",
+        "city": "Quezon City",
+        "contact": "09231234573"
+    },
+    {
+        "patient_id": "P009",
+        "name": "Ella Cruz",
+        "age": 36,
+        "gender": "Female",
+        "city": "Pasay",
+        "contact": "09251234575"
+    },
+    {
+        "patient_id": "P001",
+        "name": "Juan Dela Cruz",
+        "age": 34,
+        "gender": "Male",
+        "city": "Quezon City",
+        "contact": "09171234567"
+    },
+    {
+        "patient_id": "P002",
+        "name": "Maria Santos",
+        "age": 29,
+        "gender": "Female",
+        "city": "Manila",
+        "contact": "09181234568"
+    },
+    {
+        "patient_id": "P003",
+        "name": "Jose Ramirez",
+        "age": 45,
+        "gender": "Male",
+        "city": "Cebu City",
+        "contact": "09191234569"
+    },
+    {
+        "patient_id": "P008",
+        "name": "Ramon Bautista",
+        "age": 27,
+        "gender": "Male",
+        "city": "Taguig",
+        "contact": "09241234574"
+    },
+    {
+        "patient_id": "P010",
+        "name": "Kevin Santos",
+        "age": 50,
+        "gender": "Male",
+        "city": "Mandaluyong",
+        "contact": "09261234576"
+    }
+]
