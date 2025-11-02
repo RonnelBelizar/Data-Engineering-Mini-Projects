@@ -14,7 +14,7 @@ A collection of mini-projects demonstrating my data engineering and data analyti
    - Extracting data from websites  
 - **APIs / JSON**: 
    - Retrieving and processing external data  
-- **SQL / SQLite / PostgreSQL**: 
+- **SQL / SQLite / MySQL / phpMyAdmin / PostgreSQL / pgAdmin**: 
    - Querying and managing relational databases  
 - **IBM Cloud / Jupyter Notebooks**: 
    - Interactive development and experimentation  
