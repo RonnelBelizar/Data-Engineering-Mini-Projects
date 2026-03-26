@@ -1,4 +1,4 @@
-# 🕸️ Exercise: Web Scraping with BeautifulSoup
+# Web Scraping with BeautifulSoup
 
 A hands-on mini project demonstrating how to extract structured information from a webpage using **BeautifulSoup** and **Requests** in Python.
 
