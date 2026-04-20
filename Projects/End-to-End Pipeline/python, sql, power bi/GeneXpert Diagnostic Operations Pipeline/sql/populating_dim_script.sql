@@ -65,18 +65,19 @@ INSERT INTO dim_facility (
     contact_number,
     email
 )
-SELECT DISTINCT
+SELECT
     facility_availability AS facility_name,
-    hospital_designation,
-    region,
-    province,
-    latitude,
-    longitude,
-    end_user_name,
-    contact_number,
-    email
+    MAX(hospital_designation),
+    MAX(region),
+    MAX(province),
+    MAX(latitude),
+    MAX(longitude),
+    MAX(end_user_name),
+    MAX(contact_number),
+    MAX(email)
 FROM staging_master_data
-WHERE facility_availability IS NOT NULL;
+WHERE facility_availability IS NOT NULL
+GROUP BY facility_availability;
 
 INSERT INTO dim_engineer (engineer_name)
 SELECT DISTINCT
